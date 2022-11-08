@@ -1,5 +1,4 @@
-//Alvarojavier2020@outlook.es
-//magalilaparamirez@gmail.com
+
 /*_____________________________________________________________*/
 //TIPOS DE OPERADORES DE JAVASCRIPT 
 

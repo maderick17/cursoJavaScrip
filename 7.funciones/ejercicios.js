@@ -43,3 +43,40 @@ function fibonacci(numero){
 return numeros;
 }
 console.log(fibonacci(10))
+
+
+
+//funcion contador de vocales(texto){retunr cantidad de vocales}
+
+    
+function contadorvocales(texto){
+    let cont=0
+        for (let z=0; z<=texto.length; z++){
+            switch(texto[z]){
+                case "a": case "e": case"i": case "o": case "u":
+            cont+=1
+            }
+        }
+        let contadorvocales="Tiene "+cont
+    return contadorvocales
+}
+console.log(contadorvocales("rata"))
+
+//funcion calcularora(num1,num2,operacion){return total}
+function calculadora(num1,num2,op){
+    let resultado=0
+    if (op=="+"){
+        resultado=(num1+num2)    
+    }
+    else if (op=="-"){
+        resultado=(num1-num2)
+    }
+    else if (op=="*"){
+        resultado=(num1*num2)
+    }
+    else if (op=="*"){
+        resultado=(num1/num2)
+    }
+    return resultado
+}
+console.log(calculadora(10,8,"+"))
