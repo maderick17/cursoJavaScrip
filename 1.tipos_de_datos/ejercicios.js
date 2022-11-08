@@ -4,6 +4,6 @@
 //es una pagina la cual nos perimte saber que tipo de dato se esta ingresando:
 //para comprobarlo solo se tiene que declarar la variable tipo en typeof, despues escribir el dato que deseamos ingresar y nos dira que tipo de dato es
 
-var tipo=typeof (12)
+var tipo=typeof (17)
 console.log(tipo)
 

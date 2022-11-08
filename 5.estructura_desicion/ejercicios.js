@@ -92,7 +92,7 @@ switch(vocal){
      break
     default:
      console.log('no es una vocal')
-
+}
 
 
     

@@ -46,7 +46,7 @@ var trees = ['redwood', 'bay', 'cedar', 'oak', 'maple'];
 6 in trees;        // devuelve false
 'bay' in trees;    // devuelve false (debes especificar el número del índice,
                    // no el valor en ese índice)
-'length' en trees; // devuelve true (la longitud es una propiedad de Array)
+'length' in trees; // devuelve true (la longitud es una propiedad de Array)
 
 // objetos integrados
 'PI' in Math;          // devuelve true

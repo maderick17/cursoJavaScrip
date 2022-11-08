@@ -68,8 +68,4 @@ for (let z=0; z<=e.length; z++){
 
 
 
-//hacer un programam que muestre el facctorial de un numero
-//hacer un programam que determine si un texto es polimdromo
-//hacer un programa que mueste los n primeros numeros de la serie de fibonacci
-
 
