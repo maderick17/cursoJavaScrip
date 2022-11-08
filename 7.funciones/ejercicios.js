@@ -80,3 +80,4 @@ function calculadora(num1,num2,op){
     return resultado
 }
 console.log(calculadora(10,8,"+"))
+
